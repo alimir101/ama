@@ -5,13 +5,13 @@ const team = [
   {
     name: 'Imran Mir',
     role: 'Chief Executive Officer',
-    image: '/images/Imran Mir.jpeg',
+    image: 'public/images/Imran Mir.jpeg',
     description: 'Over 40 years of industry experience, former Chairman of FPCCI, and a respected voice in logistics and trade in Pakistan.',
   },
   {
     name: 'Ali Mukhtar Mir',
     role: 'Managing Director',
-    image: '/images/Ali Mukhtar Mir.jpeg',
+    image: 'public/images/Ali Mukhtar Mir.jpeg',
     description: 'Leading the company\'s strategic initiatives and operations with innovative solutions for the modern logistics landscape.',
   }
 ];
